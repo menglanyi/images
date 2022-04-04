@@ -1,1 +1,1 @@
-FROM rancher/rio-dashboard
+FROM rancher/rio-dashboard:preview
