@@ -1,0 +1,1 @@
+FROM linkerd/linkerd-controller
