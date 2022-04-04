@@ -1,0 +1,1 @@
+FROM rancher/linkerd-install:stable-2.8.1
