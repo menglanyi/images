@@ -1,1 +1,1 @@
-FROM gcr.io/linkerd-io/linkerd-controller:stable-2.8.1
+FROM gcr.io/linkerd-io/controller:stable-2.8.1
