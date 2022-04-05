@@ -1,1 +1,1 @@
-FROM linkerd/linkerd-controller
+FROM gcr.io/linkerd-io/linkerd-controller
